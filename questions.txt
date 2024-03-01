@@ -1,0 +1,9 @@
+Write a program that asks the user for their name and age. Then, print a greeting message that includes their name and age.
+
+Write a program that calculates the simple interest on a loan. Ask the user for the principal amount, interest rate, and time period (in years). Then, use the formula simple_interest = principal * rate * time to calculate the interest and print the result.
+
+Write a program that converts a temperature from Celsius to Fahrenheit. Ask the user for the temperature in Celsius. Then, use the formula Fahrenheit = (Celsius * 9/5) + 32 to convert the temperature and print the result.
+
+Write a program that checks if a number entered by the user is even or odd. Use the modulo operator (%) to check if the remainder when dividing the number by 2 is 0. If the remainder is 0, print "Even"; otherwise, print "Odd".
+
+Write a program that calculates the area of a rectangle. Ask the user for the length and width of the rectangle. Then, use the formula area = length * width to calculate the area and print the result.
