@@ -1,9 +1,24 @@
-Write a program that asks the user for their name and age. Then, print a greeting message that includes their name and age.
+C++ Programming Questions (Basic to Advanced):
 
-Write a program that calculates the simple interest on a loan. Ask the user for the principal amount, interest rate, and time period (in years). Then, use the formula simple_interest = principal * rate * time to calculate the interest and print the result.
+7. Write a program that finds the largest and smallest elements in an array.
+8. Write a program that reverses the elements of an array.
+9. Write a program that searches for an element in an array using linear search.
+10. Write a program that sorts an array using selection sort or bubble sort.
 
-Write a program that converts a temperature from Celsius to Fahrenheit. Ask the user for the temperature in Celsius. Then, use the formula Fahrenheit = (Celsius * 9/5) + 32 to convert the temperature and print the result.
+11. Write a program that finds the length of a string without using built-in functions.
+12. Write a program that removes all characters from a string except alphabets.
+13. Write a program that swaps the values of two variables using pointers.
+14. Write a program that finds the minimum and maximum element in an array using pointers.
+15. Write a program that reads data from a text file and prints its contents line by line.
 
-Write a program that checks if a number entered by the user is even or odd. Use the modulo operator (%) to check if the remainder when dividing the number by 2 is 0. If the remainder is 0, print "Even"; otherwise, print "Odd".
+16. Write a program that calculates the area and perimeter of a rectangle, taking its length and breadth as input.
+17. Write a program that calculates the simple interest for a given principal, time, and rate of interest.
+18. Write a program that converts a temperature from Celsius to Fahrenheit.
+19. Write a program that finds the area of a circle, taking its radius as input.
+20. Write a program that checks if a given string is a palindrome (reads the same backward as forward).
 
-Write a program that calculates the area of a rectangle. Ask the user for the length and width of the rectangle. Then, use the formula area = length * width to calculate the area and print the result.
+21. (Advanced) Write a program that implements a simple calculator that can perform addition, subtraction, multiplication, and division.
+22. (Advanced) Write a program that creates a class representing a bank account with attributes like account number, balance, and methods for deposit and withdrawal.
+23. (Advanced) Write a program that implements a simple linked list and demonstrates its basic operations like insertion and deletion.
+24. (Advanced) Write a program that demonstrates the use of a user-defined function template to find the sum of elements in an array of any data type.
+25. (Advanced) Write a program that overloads the << operator for a custom class representing a point (x, y) to enable printing the point coordinates directly.
